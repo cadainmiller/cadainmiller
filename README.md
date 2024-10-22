@@ -5,7 +5,7 @@ I'm a passionate Software Developer with over six years of experience in softwar
 ## 📈 GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cadainmiller&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadainmiller&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadainmiller&show_icons=true&theme=radical)
 
 
 
