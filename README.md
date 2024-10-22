@@ -2,13 +2,6 @@
 
 I'm a passionate Software Developer with over six years of experience in software development, technical support, and coding. I have a strong belief that **"The only way to do great work is to love what you do."** I specialize in building efficient, scalable solutions and delivering quality software.
 
-## 📈 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cadainmiller&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadainmiller&show_icons=true&theme=radical)
-
-
-
 ## 🚀 Skills & Technologies:
 
 ### Languages:
@@ -32,6 +25,12 @@ I'm a passionate Software Developer with over six years of experience in softwar
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📈 GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cadainmiller&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadainmiller&layout=compact&theme=radical)
 
 ## 📫 Let's Connect:
 - Email: [cadainmiller@gmail.com](mailto:cadainmiller@gmail.com)
