@@ -14,9 +14,8 @@ I've spent 6+ years shipping software, supporting systems and building products 
 
 | Project | What it is |
 |---|---|
-| **[SyncScreen](https://syncscreen.io)** | Digital signage and queue management on Raspberry Pi kiosks: live ticket calls over SignalR, text-to-speech announcements, ESC/POS ticket printing |
+| **SyncScreen** | Digital signage and queue management on Raspberry Pi kiosks: live ticket calls over SignalR, text-to-speech announcements, ESC/POS ticket printing |
 | **CaribHRM** | Multi-tenant HR and payroll SaaS for Caribbean businesses |
-| **FreshSign** | Multi-tenant SaaS for produce price boards, with screen pairing, playlists and live updates |
 
 ### 🧰 Tech stack
 
